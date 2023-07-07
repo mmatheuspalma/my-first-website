@@ -1,0 +1,25 @@
+body {background: #eee; }
+
+/*=== WORLD OF WARCRAFT ===*/
+#nav {width: 860px;  background: #fff; Margin: 70px; float: center; border-radius: 8px; }
+#nav ul { Margin: 0; padding: 0; list-style: none; width :100%; float: left ; }
+#nav ul  li  { float: left ; font: 20 arial; border-right: 2px solid #CCCCCC;border-left:2px solid #CCCCCC;border-top:2px solid #CCCCCC;border-bottom:2px solid #CCCCCC;}
+#nav ul  li a{ color: #000; text-decoration: none; padding: 20px; display: block;}
+#nav ul  li:hover { background:#DBFF81;}
+#nav ul li .home {background:  url(image/wow.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .suporte {background:  url(WOW/classes_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .Fotos {background:   url(WOW/Neutral_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .contato {background:  url(WOW/Ashers_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .historia{background: url(WOW/Wardens_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .Musicas {background: url(WOW/Musicas_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#nav ul li .raças {background: url(WOW/raça_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+
+
+#hord {width: 220px;  background: #; Margin: 70px; float: center; border-radius: 8px; }
+#hord ul { Margin: 0; padding: 0; list-style: none; width :100%; float: left ; }
+#hord ul  li  { float: left ; font: 20 arial;  }
+#hord ul  li a{ color: black; text-decoration: none; padding: 20px; display: block;}
+#hord ul  li:hover { background:#DBFF81;}
+
+#hord ul li .Aliança {background: url(WOW/Alliance_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
+#hord ul li .Horda {background: url(WOW/Horde_32.png) no-repeat  center; float:left; width:100%; padding: 30px 0; margin-bottom: 15px ; }
